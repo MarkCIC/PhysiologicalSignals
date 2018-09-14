@@ -1,4 +1,4 @@
-# physiologicalsignals-rawdata
+# PhysiologicalSignals-RawData
 Repositorio - Señales electroencefalográficas y fisiológicas de los estudiantes del experimento.  
 Repository - Electroencephalographic and physiological signals from the students of the experiment.
 
