@@ -1,0 +1,255 @@
+<Examen Titulo="Examen Diagnostico Python">
+
+	<Pregunta text="Seleccione la afirmacion que mejor describa a Python">
+		<Respuesta>Lenguaje de programacion de proposito especifico multiplataforma</Respuesta>
+		<Respuesta correcta="true">Lenguaje de programacion interpretado multiparadigma</Respuesta>
+		<Respuesta>Lenguaje de programacion de proposito general, extension de C </Respuesta>
+		<Respuesta>Lenguaje de programacion de software libre con soporte de alcance dinamico</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Comando que se utiliza para hacer que aparezca texto en la pantalla">
+		<Respuesta>Comando imprimir</Respuesta>
+		<Respuesta>Comando input</Respuesta>
+		<Respuesta correcta="true">Comando print</Respuesta>
+		<Respuesta>Comando text</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes opciones muestra la manera correcta para imprimir Hola mundo en la pantalla">
+		<Respuesta>print(Hola mundo)</Respuesta>
+		<Respuesta>printf("Hola mundo")</Respuesta>
+		<Respuesta>cout('Hola mundo')</Respuesta>
+		<Respuesta correcta="true">print('Hola mundo')</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes lineas NO imprime el mensaje completo">
+		<Respuesta>print("Luke, I'm your father")</Respuesta>
+		<Respuesta correcta="true">print('Luke, I'm your father')</Respuesta>
+		<Respuesta>print('Luke, I am your father')</Respuesta>
+		<Respuesta>print("Luke, I am your father")</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Comando empleado para almacenar la informacion introducida por el usuario">
+		<Respuesta correcta="true">input</Respuesta>
+		<Respuesta>print</Respuesta>
+		<Respuesta>edad</Respuesta>
+		<Respuesta>ninguna de las anteriores</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes reglas NO debe de seguirse para nombrar a una variable">
+		<Respuesta>No pueden iniciar con un espacio</Respuesta>
+		<Respuesta correcta="true">Debe iniciar con un numero</Respuesta>
+		<Respuesta>No pueden contener caracteres especiales</Respuesta>
+		<Respuesta>Debe iniciar con una letra o un numero</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de los siguientes ejemplos es un nombre correcto para una variable">
+		<Respuesta>_Variable</Respuesta>
+		<Respuesta>3aDimension</Respuesta>
+		<Respuesta>v@riable</Respuesta>
+		<Respuesta correcta="true">variableDeSalida</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes lineas de codigo genera como salida la cadena El resultado es 99">
+		<Respuesta>print('El resultado es'+'99')</Respuesta>
+		<Respuesta>print('El resultado es'+'9'+'9')</Respuesta>
+		<Respuesta correcta="true">print('El resultado es '+'9'+'9')</Respuesta>
+		<Respuesta>print('El resultado es '+99)</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Nombre de la funcion que indica la posicion en donde inicia el texto solicitado en una cadena">
+		<Respuesta>Funcion swapcase</Respuesta>
+		<Respuesta correcta="true">Funcion find</Respuesta>
+		<Respuesta>Funcion position</Respuesta>
+		<Respuesta>Funcion lower</Respuesta>	
+	</Pregunta>	
+	
+	<Pregunta text="Que funcion invierte en una cadena las letras mayusculas en minusculas, y viceversa">
+		<Respuesta>Funcion invert</Respuesta>
+		<Respuesta>Funcion replace</Respuesta>
+		<Respuesta correcta="true">Funcion swapcase</Respuesta>
+		<Respuesta>Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+		
+	<Pregunta text="Cual es la funcion que crea una cadena que contiene unicamente letras mayusculas">
+		<Respuesta correcta="true">Funcion upper</Respuesta>
+		<Respuesta>Funcion title</Respuesta>
+		<Respuesta>Funcion capitalize</Respuesta>
+		<Respuesta>Funcion lower</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es la funcion que suma el numero de veces que aparece un caracter en una cadena">
+		<Respuesta>Funcion lower</Respuesta>	
+		<Respuesta>funcion find</Respuesta>
+		<Respuesta>Funcion number</Respuesta>
+		<Respuesta correcta="true">Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Cual de los siguientes simbolos es el operador de exponenciacion en python">
+		<Respuesta>^</Respuesta>
+		<Respuesta>pow(var)</Respuesta>
+		<Respuesta correcta="true">**</Respuesta>
+		<Respuesta>pow(var,exp)</Respuesta>
+	</Pregunta>	
+	
+	<Pregunta text="Seleccione la opcion que contenga el orden adecuado en la jerarquia de operaciones">
+		<Respuesta correcta="true">1.Los parentesis 2. Exponentes 3. Multiplicacion y Division 4. Suma y resta</Respuesta>
+		<Respuesta>1.Exponentes 2.Multiplicacion y Division 3.Suma y resta 4.Los parentesis</Respuesta>
+		<Respuesta>1.Los parentesis 2.Multiplicacion y Division 3.Exponentes 4.Suma y resta </Respuesta>
+		<Respuesta>1.Exponentes 2.Multiplicacion y Division 3.Los parentesis 4.Suma y resta </Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Simbolo para indicar que la instruccion continua en otra linea">
+		<Respuesta>/</Respuesta>	
+		<Respuesta>+</Respuesta>
+		<Respuesta>%</Respuesta>
+		<Respuesta correcta="true">\</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Expresion que convierte un valor de cadena de caracteres en un numero entero">
+		<Respuesta>str(cadena)</Respuesta>
+		<Respuesta>cadena(int)</Respuesta>
+		<Respuesta correcta="true">int(cadena)</Respuesta>
+		<Respuesta>cadena(float)</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es la instruccion que debe escribirse para poder trabajar con fechas">
+		<Respuesta>include date</Respuesta>
+		<Respuesta correcta="true">import datetime</Respuesta>
+		<Respuesta>print(date.today())</Respuesta>	
+		<Respuesta>export datetime</Respuesta>
+	</Pregunta>	
+
+	<Pregunta text="Cual de las siguientes lineas de codigo imprime solamente el mes de una variable datetime">
+		<Respuesta>print(currentDateMonth)</Respuesta>
+		<Respuesta>print(datetime.todayMonth)</Respuesta>
+		<Respuesta>print(currentdate.thisMonth)</Respuesta>
+		<Respuesta correcta="true">print(currentDate.month)</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes afirmaciones es correcta respecto a la funcion strftime">
+		<Respuesta correcta="true">Es utilizado para modificar el formato de la fecha</Respuesta>
+		<Respuesta>Permite modificar el tiempo almacenado en una variable</Respuesta>
+		<Respuesta>Permite convertir cadenas en una fecha</Respuesta>
+		<Respuesta>Se utiliza para visualizar el tiempo de ejecucion del programa</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es el especificador de formato para desplegar el nombre completo del dia">
+		<Respuesta>%B</Respuesta>
+		<Respuesta>%y</Respuesta>
+		<Respuesta correcta="true">%A</Respuesta>
+		<Respuesta>%d</Respuesta>	
+	</Pregunta>
+	
+	<Pregunta text="A que nos ayuda el condicionador if">
+		<Respuesta>Declara las funciones a utilizar en un programa</Respuesta>
+		<Respuesta>Agrega el codigo que se utilizara si se cumple la condicion</Respuesta>
+		<Respuesta>Comenta el codigo que no se utilizara en la programacion</Respuesta>
+		<Respuesta correcta="true">Especifica el codigo que se ejecutara si se cumple la condicion</Respuesta>		
+	</Pregunta>
+
+	<Pregunta text="De que manera indicamos cual es el codigo que se ejecutara dentro de un if">
+		<Respuesta>Colocando punto y coma al final de cada linea de codigo</Respuesta>
+		<Respuesta>Borrando cualquier espacio dentro de la linea de codigo</Respuesta>
+		<Respuesta correcta="true">Agregando espacios al inicio de cada linea de codigo</Respuesta>
+		<Respuesta>Agregando la etiqueta end-if al final del codigo</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="A la ahora de comparar las cadenas 'Yes' y 'yes', cual de las siguientes aseveraciones es correcta">
+		<Respuesta>Las dos cadenas son iguales, pues tienen el mismo nombre</Respuesta>
+		<Respuesta correcta="true">Las dos cadenas son distintas, una inicia con mayuscula y otra con minuscula</Respuesta>
+		<Respuesta>Las dos cadenas son iguales, aunque es mas utilizada la de 'Yes'</Respuesta>
+		<Respuesta>Las dos cadenas son distintas, solo la cadena 'yes' es valida para utilizar</Respuesta>
+	</Pregunta>	
+
+	<Pregunta text="Cual de los siguientes operadores de comparacion esta incorrecto">
+		<Respuesta correcta="true">Menor o distinto que</Respuesta>
+		<Respuesta>Distinto que</Respuesta>
+		<Respuesta>Mayor o igual que</Respuesta>
+		<Respuesta>Ninguno esta mal</Respuesta>	
+	</Pregunta>
+	
+	<Pregunta text="Seleccione la afirmacion que mejor describa a la estructura if-else">
+		<Respuesta correcta="true">De acuerdo con una condicion, ejecutar un grupo u otro de instrucciones</Respuesta>
+		<Respuesta>Ejecutar un grupo de instrucciones mientras se cumpla una condicion</Respuesta>
+		<Respuesta>De acuerdo con el valor de una variable, ejecutar un grupo u otro de instrucciones</Respuesta>	
+		<Respuesta>Ejecutar un grupo de sentencias un numero determinado de veces</Respuesta>
+	</Pregunta>	
+	
+	<Pregunta text="Estructura que de acuerdo a una condicion, ejecuta un grupo de intrucciones u otro">
+		<Respuesta>elif</Respuesta>
+		<Respuesta correcta="true">if-else</Respuesta>
+		<Respuesta>if</Respuesta>
+		<Respuesta>else</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Comando empleado para evaluar dos o mas condiciones">
+		<Respuesta>if-else</Respuesta>	
+		<Respuesta>else</Respuesta>
+		<Respuesta correcta="true">elif</Respuesta>
+		<Respuesta>if</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Seleccione el enunciado que mejor describa al comando elif">
+		<Respuesta>Sirve para ejecutar un grupo u otro de sentencias de acuerdo con el valor de una variable</Respuesta>
+		<Respuesta>Se agrega para cubrir todas las opciones que no contempla el programa</Respuesta>
+		<Respuesta>Sirve para distinguir de que pais es una persona</Respuesta>
+		<Respuesta correcta="true">Es una abreviacion de una estructura else-if</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cuales son los operadores que permiten realizar condiciones complejas">
+		<Respuesta correcta="true">or y and</Respuesta>	
+		<Respuesta>xor y nand</Respuesta>
+		<Respuesta>nand y or</Respuesta>
+		<Respuesta>nor y and</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Cual es el operador logico que devuelve verdadero si y solo si todas las condiciones son verdaderas">
+		<Respuesta>nand</Respuesta>
+		<Respuesta>xor</Respuesta>
+		<Respuesta correcta="true">and</Respuesta>
+		<Respuesta>or</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Cual es el operador logico que devuelve verdadero si al menos una condicion se cumple">
+		<Respuesta>nand</Respuesta>	
+		<Respuesta>xor</Respuesta>
+		<Respuesta>and</Respuesta>
+		<Respuesta correcta="true">or</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Que simbolo se emplea para poder combinar mas de dos condiciones en un if">
+		<Respuesta>slash</Respuesta>
+		<Respuesta correcta="true">backslash</Respuesta>
+		<Respuesta>sharp</Respuesta>
+		<Respuesta>complex</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Que tipo de estructura genera la funcion range">
+		<Respuesta>diccionarios</Respuesta>
+		<Respuesta>colas</Respuesta>
+		<Respuesta>arboles</Respuesta>
+		<Respuesta correcta="true">arreglos</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Que iterador permite ejecutar un bloque de codigo un numero de veces determinado">
+		<Respuesta>while</Respuesta>
+		<Respuesta correcta="true">for</Respuesta>
+		<Respuesta>range</Respuesta>
+		<Respuesta>if-else</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es la salida que genera la instruccion range(3,19,4)">
+		<Respuesta correcta="true">3, 7, 11, 15 y 19</Respuesta>
+		<Respuesta>4, 7, 10, 13, 16 y 19</Respuesta>
+		<Respuesta>3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19</Respuesta>
+		<Respuesta>Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Que iterador permite repetir un bloque de codigo las veces que sea necesario, mientras se siga cumpliendo la condicion">
+		<Respuesta correcta="true">while</Respuesta>
+		<Respuesta>for</Respuesta>
+		<Respuesta>range</Respuesta>
+		<Respuesta>do-while</Respuesta>	
+	</Pregunta>
+	
+</Examen>

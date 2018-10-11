@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 4">
+
+	<Pregunta text="Cual de los siguientes simbolos es el operador de exponenciacion en python">
+		<Respuesta>^</Respuesta>
+		<Respuesta>pow(var)</Respuesta>
+		<Respuesta correcta="true">**</Respuesta>
+		<Respuesta>pow(var,exp)</Respuesta>
+	</Pregunta>	
+	
+	<Pregunta text="Seleccione la opcion que contenga el orden adecuado en la jerarquia de operaciones">
+		<Respuesta correcta="true">1.Los parentesis 2. Exponentes 3. Multiplicacion y Division 4. Suma y resta</Respuesta>
+		<Respuesta>1.Exponentes 2.Multiplicacion y Division 3.Suma y resta 4.Los parentesis</Respuesta>
+		<Respuesta>1.Los parentesis 2.Multiplicacion y Division 3.Exponentes 4.Suma y resta </Respuesta>
+		<Respuesta>1.Exponentes 2.Multiplicacion y Division 3.Los parentesis 4.Suma y resta </Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Simbolo para indicar que la instruccion continua en otra linea">
+		<Respuesta>/</Respuesta>	
+		<Respuesta>+</Respuesta>
+		<Respuesta>%</Respuesta>
+		<Respuesta correcta="true">\</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Expresion que convierte un valor de cadena de caracteres en un numero entero">
+		<Respuesta>str(cadena)</Respuesta>
+		<Respuesta>cadena(int)</Respuesta>
+		<Respuesta correcta="true">int(cadena)</Respuesta>
+		<Respuesta>cadena(float)</Respuesta>
+	</Pregunta>
+	
+</Examen>

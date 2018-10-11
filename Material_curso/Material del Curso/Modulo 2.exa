@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 2">
+
+	<Pregunta text="Comando empleado para almacenar la informacion introducida por el usuario">
+		<Respuesta correcta="true">input</Respuesta>
+		<Respuesta>print</Respuesta>
+		<Respuesta>edad</Respuesta>
+		<Respuesta>ninguna de las anteriores</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes reglas NO debe de seguirse para nombrar a una variable">
+		<Respuesta>No pueden iniciar con un espacio</Respuesta>
+		<Respuesta correcta="true">Debe iniciar con un numero</Respuesta>
+		<Respuesta>No pueden contener caracteres especiales</Respuesta>
+		<Respuesta>Debe iniciar con una letra o un numero</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de los siguientes ejemplos es un nombre correcto para una variable">
+		<Respuesta>_Variable</Respuesta>
+		<Respuesta>3aDimension</Respuesta>
+		<Respuesta>v@riable</Respuesta>
+		<Respuesta correcta="true">variableDeSalida</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes lineas de codigo genera como salida la cadena El resultado es 99">
+		<Respuesta>print('El resultado es'+'99')</Respuesta>
+		<Respuesta>print('El resultado es'+'9'+'9')</Respuesta>
+		<Respuesta correcta="true">print('El resultado es '+'9'+'9')</Respuesta>
+		<Respuesta>print('El resultado es '+99)</Respuesta>
+	</Pregunta>
+	
+</Examen>

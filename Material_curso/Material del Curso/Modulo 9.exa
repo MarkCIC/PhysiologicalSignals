@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 9">
+
+	<Pregunta text="Que tipo de estructura genera la funcion range">
+		<Respuesta>diccionarios</Respuesta>
+		<Respuesta>colas</Respuesta>
+		<Respuesta>arboles</Respuesta>
+		<Respuesta correcta="true">arreglos</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Que iterador permite ejecutar un bloque de codigo un numero de veces determinado">
+		<Respuesta>while</Respuesta>
+		<Respuesta correcta="true">for</Respuesta>
+		<Respuesta>range</Respuesta>
+		<Respuesta>if-else</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es la salida que genera la instruccion range(3,19,4)">
+		<Respuesta correcta="true">3, 7, 11, 15 y 19</Respuesta>
+		<Respuesta>4, 7, 10, 13, 16 y 19</Respuesta>
+		<Respuesta>3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 y 19</Respuesta>
+		<Respuesta>Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Que iterador permite repetir un bloque de codigo las veces que sea necesario, mientras se siga cumpliendo la condicion">
+		<Respuesta correcta="true">while</Respuesta>
+		<Respuesta>for</Respuesta>
+		<Respuesta>range</Respuesta>
+		<Respuesta>do-while</Respuesta>	
+	</Pregunta>
+		
+</Examen>

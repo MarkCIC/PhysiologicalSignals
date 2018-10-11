@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 3">
+
+	<Pregunta text="Nombre de la funcion que indica la posicion en donde inicia el texto solicitado en una cadena">
+		<Respuesta>Funcion swapcase</Respuesta>
+		<Respuesta correcta="true">Funcion find</Respuesta>
+		<Respuesta>Funcion position</Respuesta>
+		<Respuesta>Funcion lower</Respuesta>	
+	</Pregunta>	
+	
+	<Pregunta text="Que funcion invierte en un cadena las letras mayusculas en minusculas, y viceversa">
+		<Respuesta>Funcion invert</Respuesta>
+		<Respuesta>Funcion replace</Respuesta>
+		<Respuesta correcta="true">Funcion swapcase</Respuesta>
+		<Respuesta>Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+		
+	<Pregunta text="Cual es la funcion que crea una cadena que contiene unicamente letras mayusculas">
+		<Respuesta correcta="true">Funcion upper</Respuesta>
+		<Respuesta>Funcion title</Respuesta>
+		<Respuesta>Funcion capitalize</Respuesta>
+		<Respuesta>Funcion lower</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es la funcion que suma el numero de veces que aparece un caracter en una cadena">
+		<Respuesta>Funcion lower</Respuesta>	
+		<Respuesta>funcion find</Respuesta>
+		<Respuesta>Funcion number</Respuesta>
+		<Respuesta correcta="true">Ninguna de las anteriores</Respuesta>
+	</Pregunta>
+	
+</Examen>

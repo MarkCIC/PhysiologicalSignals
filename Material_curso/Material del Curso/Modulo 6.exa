@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 6">
+	
+	<Pregunta text="A que nos ayuda el condicionador if">
+		<Respuesta>Declara las funciones a utilizar en un programa</Respuesta>
+		<Respuesta>Agrega el codigo que se utilizara si se cumple la condicion</Respuesta>
+		<Respuesta>Comenta el codigo que no se utilizara en la programacion</Respuesta>
+		<Respuesta correcta="true">Especifica el codigo que se ejecutara si se cumple la condicion</Respuesta>		
+	</Pregunta>
+
+	<Pregunta text="De que manera indicamos cual es el codigo que se ejecutara dentro de un if">
+		<Respuesta>Colocando punto y coma al final de cada linea de codigo</Respuesta>
+		<Respuesta>Borrando cualquier espacio dentro de la linea de codigo</Respuesta>
+		<Respuesta correcta="true">Agregando espacios al inicio de cada linea de codigo</Respuesta>
+		<Respuesta>Agregando la etiqueta end-if al final del codigo</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="A la ahora de comparar las cadenas 'Yes' y 'yes', cual de las siguientes aseveraciones es correcta">
+		<Respuesta>Las dos cadenas son iguales, pues tienen el mismo nombre</Respuesta>
+		<Respuesta correcta="true">Las dos cadenas son distintas, una inicia con mayuscula y otra con minuscula</Respuesta>
+		<Respuesta>Las dos cadenas son iguales, aunque es mas utilizada la de 'Yes'</Respuesta>
+		<Respuesta>Las dos cadenas son distintas, solo la cadena 'yes' es valida para utilizar</Respuesta>
+	</Pregunta>	
+
+	<Pregunta text="Cual de los siguientes operadores de comparacion esta incorrecto">
+		<Respuesta correcta="true">Menor o distinto que</Respuesta>
+		<Respuesta>Distinto que</Respuesta>
+		<Respuesta>Mayor o igual que</Respuesta>
+		<Respuesta>Ninguno esta mal</Respuesta>	
+	</Pregunta>
+		
+</Examen>

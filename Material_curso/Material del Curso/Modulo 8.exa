@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 8">
+
+	<Pregunta text="Cuales son los operadores que permiten realizar condiciones complejas">
+		<Respuesta correcta="true">or y and</Respuesta>	
+		<Respuesta>xor y nand</Respuesta>
+		<Respuesta>nand y or</Respuesta>
+		<Respuesta>nor y and</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Cual es el operador logico que devuelve verdadero si y solo si todas las condiciones son verdaderas">
+		<Respuesta>nand</Respuesta>
+		<Respuesta>xor</Respuesta>
+		<Respuesta correcta="true">and</Respuesta>
+		<Respuesta>or</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Cual es el operador logico que devuelve verdadero si al menos una condicion se cumple">
+		<Respuesta>nand</Respuesta>	
+		<Respuesta>xor</Respuesta>
+		<Respuesta>and</Respuesta>
+		<Respuesta correcta="true">or</Respuesta>
+	</Pregunta>
+
+	<Pregunta text="Que simbolo se emplea para poder combinar mas de dos condiciones en un if">
+		<Respuesta>slash</Respuesta>
+		<Respuesta correcta="true">backslash</Respuesta>
+		<Respuesta>sharp</Respuesta>
+		<Respuesta>complex</Respuesta>
+	</Pregunta>	
+	
+</Examen>

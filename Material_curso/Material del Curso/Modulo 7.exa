@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 7">
+
+	<Pregunta text="Seleccione la afirmacion que mejor describa a la estructura if-else">
+		<Respuesta correcta="true">De acuerdo con una condicion, ejecutar un grupo u otro de instrucciones</Respuesta>
+		<Respuesta>Ejecutar un grupo de instrucciones mientras se cumpla una condicion</Respuesta>
+		<Respuesta>De acuerdo con el valor de una variable, ejecutar un grupo u otro de instrucciones</Respuesta>	
+		<Respuesta>Ejecutar un grupo de sentencias un numero determinado de veces</Respuesta>
+	</Pregunta>	
+	
+	<Pregunta text="Estructura que de acuerdo a una condicion, ejecuta un grupo de intrucciones u otro">
+		<Respuesta>elif</Respuesta>
+		<Respuesta correcta="true">if-else</Respuesta>
+		<Respuesta>if</Respuesta>
+		<Respuesta>else</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Comando empleado para evaluar dos o mas condiciones">
+		<Respuesta>if-else</Respuesta>	
+		<Respuesta>else</Respuesta>
+		<Respuesta correcta="true">elif</Respuesta>
+		<Respuesta>if</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Seleccione el enunciado que mejor describa al comando elif">
+		<Respuesta>Sirve para ejecutar un grupo u otro de sentencias de acuerdo con el valor de una variable</Respuesta>
+		<Respuesta>Se agrega para cubrir todas las opciones que no contempla el programa</Respuesta>
+		<Respuesta>Sirve para distinguir de que pais es una persona</Respuesta>
+		<Respuesta correcta="true">Es una abreviacion de una estructura else-if</Respuesta>
+	</Pregunta>
+			
+</Examen>

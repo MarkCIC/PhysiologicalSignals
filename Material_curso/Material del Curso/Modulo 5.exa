@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 5">
+
+	<Pregunta text="Cual es la instruccion que debe escribirse para poder trabajar con fechas">
+		<Respuesta>include date</Respuesta>
+		<Respuesta correcta="true">import datetime</Respuesta>
+		<Respuesta>print(date.today())</Respuesta>	
+		<Respuesta>export datetime</Respuesta>
+	</Pregunta>	
+
+	<Pregunta text="Cual de las siguientes lineas de codigo imprime solamente el mes de una variable datetime">
+		<Respuesta>print(currentDateMonth)</Respuesta>
+		<Respuesta>print(datetime.todayMonth)</Respuesta>
+		<Respuesta>print(currentdate.thisMonth)</Respuesta>
+		<Respuesta correcta="true">print(currentDate.month)</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes afirmaciones es correcta respecto a la funcion strftime">
+		<Respuesta correcta="true">Es utilizado para modificar el formato de la fecha</Respuesta>
+		<Respuesta>Permite modificar el tiempo almacenado en una variable</Respuesta>
+		<Respuesta>Permite convertir cadenas en una fecha</Respuesta>
+		<Respuesta>Se utiliza para visualizar el tiempo de ejecucion del programa</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual es el especificador de formato para desplegar el nombre completo del dia">
+		<Respuesta>%B</Respuesta>
+		<Respuesta>%y</Respuesta>
+		<Respuesta correcta="true">%A</Respuesta>
+		<Respuesta>%d</Respuesta>	
+	</Pregunta>
+		
+</Examen>

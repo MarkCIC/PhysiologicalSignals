@@ -1,0 +1,31 @@
+<Examen Titulo="Examen Python Modulo 1">
+
+	<Pregunta text="Seleccione la afirmacion que mejor describa a Python">
+		<Respuesta>Lenguaje de programacion de proposito especifico multiplataforma</Respuesta>
+		<Respuesta correcta="true">Lenguaje de programacion interpretado multiparadigma</Respuesta>
+		<Respuesta>Lenguaje de programacion de proposito general, extension de C </Respuesta>
+		<Respuesta>Lenguaje de programacion de software libre con soporte de alcance dinamico</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Comando que se utiliza para hacer que aparezca texto en la pantalla">
+		<Respuesta>Comando imprimir</Respuesta>
+		<Respuesta>Comando input</Respuesta>
+		<Respuesta correcta="true">Comando print</Respuesta>
+		<Respuesta>Comando text</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes opciones muestra la manera correcta para imprimir Hola mundo en la pantalla">
+		<Respuesta>print(Hola mundo)</Respuesta>
+		<Respuesta>printf("Hola mundo")</Respuesta>
+		<Respuesta>cout('Hola mundo')</Respuesta>
+		<Respuesta correcta="true">print('Hola mundo')</Respuesta>
+	</Pregunta>
+	
+	<Pregunta text="Cual de las siguientes lineas NO imprime el mensaje completo">
+		<Respuesta>print("Luke, I'm your father")</Respuesta>
+		<Respuesta correcta="true">print('Luke, I'm your father')</Respuesta>
+		<Respuesta>print('Luke, I am your father')</Respuesta>
+		<Respuesta>print("Luke, I am your father")</Respuesta>
+	</Pregunta>
+	
+</Examen>
