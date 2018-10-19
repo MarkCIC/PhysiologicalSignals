@@ -30,26 +30,26 @@ Set of information obtained by processing information from sensors using
 the 4 moments (mean, variance, asymmetry and kurtosis).
 NOTE:
 The information that was obtained from the sensors was:
-•	Heart rate
-• Galvanic response
-• Skin temperature
-• X accelerometer
-• Accelerometer Y
-• Accelerometer Z
-• Ambient light
-• Air pressure
-• Temperature
-• AF3
-• F7
-• F3
-• FC5
-• T7
-• P7
-• O1
-• O2
-• P8
-• T8
-• FC6
-• F4
-• F8
-• AF4
+•   Heart rate
+•   Galvanic response
+•   Skin temperature
+•   Accelerometer X
+•   Accelerometer Y
+•   Accelerometer Z
+•   Ambient light
+•   Air pressure
+•   Temperature
+•   AF3
+•   F7
+•   F3
+•   FC5
+•   T7
+•   P7
+•   O1
+•   O2
+•   P8
+•   T8
+•   FC6
+•   F4
+•   F8
+•   AF4
